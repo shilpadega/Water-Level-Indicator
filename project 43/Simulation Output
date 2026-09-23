@@ -1,0 +1,5 @@
+Time=0  | Sensors=0000 | Low=0 | Medium=0 | High=0 | Full=0
+Time=10 | Sensors=0001 | Low=1 | Medium=0 | High=0 | Full=0
+Time=20 | Sensors=0011 | Low=0 | Medium=1 | High=0 | Full=0
+Time=30 | Sensors=0111 | Low=0 | Medium=0 | High=1 | Full=0
+Time=40 | Sensors=1111 | Low=0 | Medium=0 | High=0 | Full=1

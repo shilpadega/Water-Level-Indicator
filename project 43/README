@@ -1,0 +1,27 @@
+# Water Level Indicator
+
+## Description
+
+The Water Level Indicator is a digital system designed using Verilog HDL to monitor the water level in a tank.
+
+It detects four water levels:
+
+- Low
+- Medium
+- High
+- Full
+
+## Features
+
+- Simple Verilog HDL design
+- Detects different water levels
+- Provides digital output indications
+- Includes a testbench
+- Includes simulation waveform
+
+## Technologies Used
+
+- Verilog HDL
+- Digital Logic Design
+- Simulation and Verification
+
